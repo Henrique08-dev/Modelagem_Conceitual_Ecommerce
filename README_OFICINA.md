@@ -78,7 +78,7 @@ Entidades Principais e Seus Atributos
 - `Observacoes` TEXT
 - `Cliente_idCliente` INT (FK)
 - `Veiculo_idVeiculo` INT (FK)
-- `OrdemServico_idOrdemServico` INT (FK) [Optional]
+- `OrdemServico_idOrdemServico` INT (FK)
 
 💰 **Pagamento**
 - `idPagamento` INT (PK)
