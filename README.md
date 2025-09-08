@@ -86,3 +86,7 @@ Entidades Principais
 - Modelagem preparada para crescimento
 - Estrutura que suporta múltiplos canais de venda
 - Gestão de fornecedores terceirizados
+
+---
+
+**Desenvolvido como parte da Formação Power BI Analyst - Digital Innovation One**
